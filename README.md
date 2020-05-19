@@ -27,7 +27,7 @@ pin-to-pin connections between the ItsyBitsy and the MPR121:
 Fortunately, the I2C pins on the ItsyBitsy are clearly labeled,
 so the connections are very straightforward.
 
-![Schematic](images/schem.png)
+<img src="images/schem.png" alt="Schematic" width="500"/>
 
 For accessing the 12 sensing pins on the MPR121, get creative! You 
 can connect them to pretty much anything using wires, gator clips or jumpers.
